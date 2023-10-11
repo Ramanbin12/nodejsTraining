@@ -21,7 +21,7 @@ const pdfValidation = (extension) => {
     return false;
 }
 const sizeValidation = (size) => {
-    if (size <= 50) {
+    if (size <= 30) {
         return true
     }
     return false
