@@ -22,7 +22,6 @@ const password="hey123bedb"
 // decryptedData +=decipher.final('utf-8')
 // console.log(decryptedData)
 
-
 //dns
 
 const dns=require("dns")
